@@ -79,6 +79,10 @@ git branch -D <rama a eliminar>
 git rm -rf .git
 - elimina un repositorio, este comando eliminara la carpeta .git
 
+git commit -am "subido al Stage y commit agregado al mismo tiempo"  
+- sube al stage y crea el comit al mismo tiempo
+  
+
 
 
 
