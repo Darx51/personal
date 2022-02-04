@@ -82,7 +82,7 @@ git rm -rf .git
 git commit -am "subido al Stage y commit agregado al mismo tiempo"  
 - sube al stage y crea el comit al mismo tiempo
   
-
+git push <nombre del repositorio remoto en github>
 
 
 
