@@ -76,7 +76,7 @@ git branch -d <rama a eliminar>
 git branch -D <rama a eliminar>
 -elimina la rama sin importar si se hizo merge con la rama master
 
-git rm -rf .git
+rm -rf .git
 - elimina un repositorio, este comando eliminara la carpeta .git
 
 git commit -am "subido al Stage y commit agregado al mismo tiempo"  
